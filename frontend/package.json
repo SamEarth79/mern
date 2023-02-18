@@ -40,5 +40,8 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.2.7"
+  },
+  "prettier":{
+    "tabWidth": 4
   }
 }
